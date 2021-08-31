@@ -2,7 +2,7 @@
 - 👀 I’m interested in solving real life problems via backend engineering and cloud architecture
 - 🌱 I’m currently learning event-driven architecture
 - 💞️ I’m looking to collaborate on developer documentation
-- 📫 How to reach me at [Twitter](https://twitter.com/goel4ever)
+- 📫 Reach me on [Twitter](https://twitter.com/goel4ever)
 
 <!---
 goel4ever/goel4ever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
