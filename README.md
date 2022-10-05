@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @goel4ever
-- 👀 I’m interested in solving real life problems via backend engineering and cloud architecture
-- 🌱 I’m currently learning event-driven architecture
-- 💞️ I’m looking to collaborate on developer documentation
-- 📫 Reach me on [Twitter](https://twitter.com/goel4ever)
+## Anshul Goel @goel4ever
+
+### Hello people 👋 
+
+I 💞️ solving real life problems via backend engineering and cloud architecture
+
+- 🌱 I’m currently focused on event-driven architecture
+- 👀 I’m open to collaborate on projects and/or developer documentation
+- 📫 Another way to reach me is [Twitter](https://twitter.com/goel4ever)
 
 <!---
 goel4ever/goel4ever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
