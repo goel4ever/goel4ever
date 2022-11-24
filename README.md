@@ -11,6 +11,7 @@ I 💞️ solving real life problems via backend engineering and cloud architect
 ### Fun Projects
 - [Amortization Calaculator](https://goel4ever.github.io/amortization-calculator/)
 - [Dev Handbook](https://github.com/learn-with-me/Development-Setup-Handbook/)
+- Markdown-based documentation [Template](https://github.com/goel4ever/mkdocs-template)
 
 <!---
 goel4ever/goel4ever is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
