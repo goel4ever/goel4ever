@@ -18,17 +18,17 @@
 <br />
 <p align="center">
     <a href="https://www.linkedin.com/in/goel4ever/" title="LinkedIn">
-        <img src="./icons8-linkedin-96.svg" alt="LinkedIn" width="40" /></a>
+        <img src="./assets/images/icons8-linkedin-96.svg" alt="LinkedIn" width="40" /></a>
     <a href="https://www.instagram.com/goel4ever/" title="Instagram">
-        <img src="./icons8-instagram.svg" alt="Instagram" width="40" /></a>
+        <img src="./assets/images/icons8-instagram.svg" alt="Instagram" width="40" /></a>
     <a href="https://twitter.com/goel4ever" title="Twitter">
-        <img src="./icons8-twitter.svg" alt="Twitter" width="40" /></a>
+        <img src="./assets/images/icons8-twitter.svg" alt="Twitter" width="40" /></a>
     <a href="https://goel.hashnode.dev/" title="Hashnode">
-        <img src="./icons8-hashnode.svg" alt="Hashnode" width="40" /></a>
+        <img src="./assets/images/icons8-hashnode.svg" alt="Hashnode" width="40" /></a>
     <a href="https://dev.to/goel4ever" title="Dev.to">
-        <img src="./icons8-dev-community-yellow.png" alt="Dev.to" width="40" /> </a>
+        <img src="./assets/images/icons8-dev-community-yellow.png" alt="Dev.to" width="40" /> </a>
     <a href="https://g.dev/goel4ever" title="Google Developer">
-        <img src="./google-dev.svg" alt="Google Dev" width="60" /> </a>
+        <img src="./assets/images/google-dev.svg" alt="Google Dev" width="60" /> </a>
 </p>
 
 <h2 align="center">🤍 Stats 🤍</h2>
