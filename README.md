@@ -10,9 +10,10 @@
 <br />
 <h2 align="center">🚀 Projects 🚀</h2>
 
-- [Amortization Calaculator](https://goel4ever.github.io/amortization-calculator/)
-- [Dev Handbook](https://learn-with-me.github.io/Development-Setup-Handbook/)
-- Markdown-based documentation [Template](https://learn-with-me.github.io/mkdocs-template/)
+- Project: [Amortization Calculator](https://goel4ever.github.io/amortization-calculator/)
+- Docs: [Dev Handbook](https://learn-with-me.github.io/Development-Setup-Handbook/)
+- Docs: [Software Engineering Fundamentals](https://learn-with-me.github.io/Software-Engineering-Fundamentals/)
+- Template: Markdown-based [Documentation Template](https://learn-with-me.github.io/mkdocs-template/)
 
 <h2 align="center">🌟 Socials 🌟</h2>
 <br />
