@@ -12,7 +12,6 @@
 
 - Project: [Amortization Calculator](https://goel4ever.github.io/amortization-calculator/)
 - Docs: [Development Setup Handbook](https://learn-with-me.github.io/Development-Setup-Handbook/)
-- Docs: [Developer's Handbook](https://learn-with-me.github.io/Development-Setup-Handbook/)
 - Docs: [Software Engineering Fundamentals](https://learn-with-me.github.io/Software-Engineering-Fundamentals/)
 - Template: Markdown-based [Documentation Template](https://learn-with-me.github.io/mkdocs-template/)
 
