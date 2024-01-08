@@ -34,10 +34,6 @@
 
 <p align="center">
     <a href="https://github.com/goel4ever?tab=repositories" title="Profile">
-        <img src="https://github-readme-stats.vercel.app/api?username=goel4ever&show_icons=true&custom_title=My%20GitHub%20Stats&border_radius=0"
-            alt="Github Stats" width="49%" />
-    </a>
-    <a href="https://github.com/goel4ever?tab=repositories" title="Profile">
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=goel4ever&border_radius=0" alt="goel4ever"
             width="49%" />
     </a>
