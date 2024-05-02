@@ -15,6 +15,21 @@
 - Docs: [Software Engineering Fundamentals](https://learn-with-me.github.io/Software-Engineering-Fundamentals/)
 - Template: Markdown-based [Documentation Template](https://learn-with-me.github.io/mkdocs-template/)
 
+<h2 align="center">🤍 Stats 🤍</h2>
+
+<p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=goel4ever&border_radius=0&theme=transparent" alt="goel4ever" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=goel4ever&theme=transparent&exclude=CSS,Shell" alt="goel4ever" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goel4ever&theme=transparent&hide_border=true" alt="goel4ever" />
+</p>
+
+<p align="center">
+<a href="https://wakatime.com/@goel4ever"><img src="https://wakatime.com/badge/user/275c1767-61f3-4e9a-a208-0f7398babeca.svg"></a>
+<a href="https://github.com/goel4ever?tab=repositories" title="Profile">
+<img src="https://komarev.com/ghpvc/?username=goel4ever&label=Profile%20views&color=0e75b6&style=flat" alt="goel4ever" />
+</a>
+</p>
+
 <h2 align="center">🌟 Socials 🌟</h2>
 <br />
 <p align="center">
@@ -28,30 +43,6 @@
         <img src="./assets/images/icons8-dev-community-yellow.png" alt="Dev.to" width="40" /> </a>
     <a href="https://g.dev/goel4ever" title="Google Developer">
         <img src="./assets/images/google-dev.svg" alt="Google Dev" width="60" /> </a>
-</p>
-
-<h2 align="center">🤍 Stats 🤍</h2>
-
-<p align="center">
-    <a href="https://github.com/goel4ever?tab=repositories" title="Profile">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=goel4ever&border_radius=0&theme=transparent" alt="goel4ever"
-            width="33%" />
-    </a>
-    <a href="https://github.com/goel4ever?tab=repositories" title="Profile">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goel4ever&theme=transparent&hide_border=true" alt="goel4ever"
-            width="33%" />
-    </a>
-    <a href="https://github.com/goel4ever?tab=repositories" title="Profile">
-        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=goel4ever&theme=transparent&exclude=CSS" alt="goel4ever"
-            width="33%" />
-    </a>
-</p>
-
-<p align="center">
-<a href="https://wakatime.com/@goel4ever"><img src="https://wakatime.com/badge/user/275c1767-61f3-4e9a-a208-0f7398babeca.svg"></a>
-<a href="https://github.com/goel4ever?tab=repositories" title="Profile">
-<img src="https://komarev.com/ghpvc/?username=goel4ever&label=Profile%20views&color=0e75b6&style=flat" alt="goel4ever" />
-</a>
 </p>
 
 <details>
