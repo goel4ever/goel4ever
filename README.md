@@ -1,10 +1,8 @@
-<h1 align="center">Hi People 👋</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!;Currently+backend+engineer+at+Peloton;Experienced+in+software+architecture;Excited+about+Machine+learning)](https://git.io/typing-svg)
 
-<h3 align="center">Fact: I 💞️ solving real life problems via backend engineering and cloud architecture</h3>
-<br />
-
-- 🔥 Enthusiast about technologies and what they can do
-- 🌱 I’m currently focused on event-driven architecture
+- 🔥 I'm currently working as a lead backend engineer at Peloton
+- 🌱 I’m currently focused on event-driven architecture and machine learning domain
+- 🌱 I’m a compulsive note taker
 - 👀 I’m open to collaborate on open-source projects, not for profit
 
 <br />
