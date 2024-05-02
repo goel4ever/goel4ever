@@ -34,12 +34,16 @@
 
 <p align="center">
     <a href="https://github.com/goel4ever?tab=repositories" title="Profile">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=goel4ever&border_radius=0" alt="goel4ever"
-            width="49%" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=goel4ever&border_radius=0&theme=transparent" alt="goel4ever"
+            width="33%" />
     </a>
-  <a href="https://github.com/goel4ever?tab=repositories" title="Profile">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goel4ever&theme=radical&hide_border=true" alt="goel4ever"
-            width="49%" />
+    <a href="https://github.com/goel4ever?tab=repositories" title="Profile">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=goel4ever&theme=transparent&hide_border=true" alt="goel4ever"
+            width="33%" />
+    </a>
+    <a href="https://github.com/goel4ever?tab=repositories" title="Profile">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=goel4ever&theme=transparent&exclude=CSS" alt="goel4ever"
+            width="33%" />
     </a>
 </p>
 
