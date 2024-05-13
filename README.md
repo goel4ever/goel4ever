@@ -39,8 +39,6 @@
         <img src="./assets/images/icons8-hashnode.svg" alt="Hashnode" width="40" /></a>
     <a href="https://dev.to/goel4ever" title="Dev.to">
         <img src="./assets/images/icons8-dev-community-yellow.png" alt="Dev.to" width="40" /> </a>
-    <a href="https://g.dev/goel4ever" title="Google Developer">
-        <img src="./assets/images/google-dev.svg" alt="Google Dev" width="60" /> </a>
 </p>
 
 <details>
