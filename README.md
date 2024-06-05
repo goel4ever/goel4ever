@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!;Currently+backend+engineer+at+Peloton;Experienced+in+software+architecture;Excited+about+Machine+learning)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome!;Currently+lead+backend+engineer+at+Peloton;Experienced+in+software+architecture+engineering;Excited+about+Machine+learning)](https://git.io/typing-svg)
 
 - 🔥 I'm currently working as a lead backend engineer at Peloton
 - 🌱 I’m currently focused on event-driven architecture and machine learning domain
